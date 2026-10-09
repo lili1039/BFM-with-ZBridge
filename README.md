@@ -130,4 +130,4 @@ uv run python -m humanoidverse.tools.compare_latent_transitions \
 
 ---
 
-本版本基于 [Roboparty/UFO](https://github.com/Roboparty/UFO) 的代码，加入了 23DoF 数据重定向、重新训练与测试时 Z-Bridge 路径寻优；原项目作者未参与或认可本版本。原项目许可与引用信息见 [LICENSE](LICENSE)。
+本版本基于 [Roboparty/UFO](https://github.com/Roboparty/UFO) 的代码，加入了 23DoF 数据重定向、重新训练与测试时 Z-Bridge 路径寻优。
